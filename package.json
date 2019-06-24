@@ -1,0 +1,27 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "glsl-shader-loader": "^0.1.6",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.3.1",
+    "webpack-glsl-loader": "^1.0.1"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^17.3.2",
+    "dat.gui": "^0.7.6",
+    "gyronorm": "^2.0.6",
+    "jquery": "^3.4.1",
+    "three": "^0.104.0"
+  }
+}
