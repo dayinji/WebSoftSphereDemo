@@ -21,7 +21,7 @@
     "@tweenjs/tween.js": "^17.3.2",
     "dat.gui": "^0.7.6",
     "gyronorm": "^2.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "three": "^0.104.0"
   }
 }
